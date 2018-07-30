@@ -5,3 +5,4 @@ aaa
 bbb
 hhh
 ggg
+Creating a new branch is quick.
