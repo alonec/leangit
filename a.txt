@@ -5,7 +5,7 @@ aaa
 bbb
 hhh
 ggg
-Creating a new branch is quick.
+Creating a new branch is quick.aaaaaaaaaaaaaaaaaaaaaaaaaa
 <<<<<<< HEAD
 Creating a new branch is quick AND simple.
 =======
